@@ -3,7 +3,7 @@ README.md
 grateful_dead_info_scraper
 A Koii Task for Scraping Grateful Dead Information
 
-This Koii task is designed to scrape information related to the Grateful Dead from a specified website. It utilizes Axios to make HTTP requests and Cheerio to parse HTML content.
+This Koii task is designed to scrape information related to the Grateful Dead from a specified website. It utilizes Axios to make HTTP requests and Cheerio to parse HTML content. Earn $DEAD tokens for running this task
 
 Installation:
 
